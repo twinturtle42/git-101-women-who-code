@@ -27,9 +27,8 @@ Solve the following challenges with your workshop buddy (pair programming).
 | 2 | Open a Pull Request for me to review.
 | 3 | If your Pull Request got accepted, your changes are added to the codebase and available [here](https://allthatjoy.github.io/git-101-women-who-code/)
 
-| Before Getting started| Description |
+| | Before Getting started |
 | ------ | ------ |
-|:---:        |     :---:      |
 | 1 | In your terminal, run the command: `git version`. If Git is not installed, you can find the install file [here](https://git-scm.com/downloads)
 | 2 | To make your terminal more user-friendly, install oh-my-zsh. 
 |   | **For Mac & Linux Users**: The installations instructions are [here](https://www.maketecheasier.com/install-zsh-and-oh-my-zsh-windows10/). You can also just run this command in your terminal: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
