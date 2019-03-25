@@ -5,11 +5,12 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 [Commands Cheatsheet](https://www.slideshare.net/JoySeng/git-101-workshop-commands-cheatsheet)
 
-| Before Getting started|
+| Challenge 1| Description |
 | ------ | ------ |
-| 1 | In your terminal, run the command: git version 
-|   | a) If git is not installed, you can install it here: https://git-scm.com/downloads
-| 2 | To style your terminal and make it more user-friendly, install oh-my-zsh
+| 1 | Open your terminal.
+| 2 | Make sure your current directory is on desktop.
+| 3 | git clone https://github.com/allthatjoy/git-101-women-who-code
+| 4 | Then jump into that repository.
 
 | Challenge 1| Description |
 | ------ | ------ |
