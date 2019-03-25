@@ -8,10 +8,10 @@ Solve the following challenges with your workshop buddy (pair programming).
 | Before Getting started| Description |
 | ------ | ------ |
 |:---:        |     :---:      |
-| 1 | In your terminal, run the command: `git version`. If Git is not installed, you can install it here: https://git-scm.com/downloads
-| 2 | To style your terminal and make it more user-friendly, install oh-my-zsh. 
-|   | **For Mac Users**: For Mac and Linux Users: instructions are here: https://github.com/robbyrussell/oh-my-zsh. You can also just this command in your terminal: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-|   | **For Windows 10 Users**: https://www.maketecheasier.com/install-zsh-and-oh-my-zsh-windows10/, but the process is much much longer, so recommended that you do this at home
+| 1 | In your terminal, run the command: `git version`. If Git is not installed, you can find the install file here: https://git-scm.com/downloads
+| 2 | To make your terminal more user-friendly, install oh-my-zsh. 
+|   | **For Mac & Linux Users**: The installations instructions are [here](https://www.maketecheasier.com/install-zsh-and-oh-my-zsh-windows10/). You can also just run this command in your terminal: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+|   | **For Windows 10 Users**: You can find installations instructions [here](https://www.maketecheasier.com/install-zsh-and-oh-my-zsh-windows10/), but the process is much much longer, so it is recommended that you do this at home. 
 
 | Challenge 1| Description |
 | ------ | ------ |
