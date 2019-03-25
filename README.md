@@ -12,6 +12,13 @@ Solve the following challenges with your workshop buddy (pair programming).
 | 3 | git clone https://github.com/allthatjoy/git-101-women-who-code
 | 4 | Then jump into that repository.
 
+| Challenge 1| Description |
+| ------ | ------ |
+| 1 | Open your terminal.
+| 2 | Make sure your current directory is on desktop.
+| 3 | git clone https://github.com/allthatjoy/git-101-women-who-code
+| 4 | Then jump into that repository.
+
 | Challenge 2| Description |
 | ------ | ------ |
 | 1 | Create a new branch.
@@ -27,7 +34,9 @@ Solve the following challenges with your workshop buddy (pair programming).
 | 2 | Open a Pull Request for me to review.
 | 3 | If your Pull Request got accepted, your changes are added to the codebase and available [here](https://allthatjoy.github.io/git-101-women-who-code/)
 
-| | Before Getting started |
+
+**Before Getting started with the Challenges**
+
 | ------ | ------ |
 | 1 | In your terminal, run the command: `git version`. If Git is not installed, you can find the install file [here](https://git-scm.com/downloads)
 | 2 | To make your terminal more user-friendly, install oh-my-zsh. 
