@@ -3,7 +3,9 @@
 ### Challenges 💪
 Solve the following challenges with your workshop buddy (pair programming).
 
-Cheatsheet for [Mac & Linux Users](http://bit.ly/gitgithubcheatsheetmac). Cheatsheet for [Windows Users](http://bit.ly/gitgithubcheatsheetmac)
+**Cheatsheet** for [Mac & Linux Users](http://bit.ly/gitgithubcheatsheetmac).\ Cheatsheet for [Windows Users](http://bit.ly/gitgithubcheatsheetmac)
+
+<br/>
 
 | Challenge 1| Command Line Basics (Use your Cheatsheet)|
 | ------ | ------ |
