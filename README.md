@@ -5,7 +5,7 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 [Commands Cheatsheet](https://www.slideshare.net/JoySeng/git-101-workshop-commands-cheatsheet)
 
-| Before Getting started| |
+| Before Getting started| Description |
 | ------ | ------ |
 | 1 | In your terminal, run the command: git version. If Git is not installed, you can install it here: https://git-scm.com/downloads
 | 2 | To style your terminal and make it more user-friendly, install oh-my-zsh. 
