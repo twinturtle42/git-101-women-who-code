@@ -7,8 +7,7 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 | Before Getting started| |
 | ------ | ------ |
-| 1 | In your terminal, run the command: git version
-      a) If git is not installed, you can install it here: https://git-scm.com/downloads
+| 1 | In your terminal, run the command: git version. If git is not installed, you can install it here: https://git-scm.com/downloads
 | 3 | git clone https://github.com/allthatjoy/git-101-women-who-code
 | 4 | Then jump into that repository.
 
