@@ -35,6 +35,8 @@ Solve the following challenges with your workshop buddy (pair programming).
 | 3 | If your Pull Request got accepted, your changes are added to the codebase and available [here](https://allthatjoy.github.io/git-101-women-who-code/)
 
 
+
+
 **Before Getting started with the Challenges**
 
 |  |  |
