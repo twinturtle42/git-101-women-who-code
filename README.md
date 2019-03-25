@@ -5,9 +5,9 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 [Commands Cheatsheet](https://www.slideshare.net/JoySeng/git-101-workshop-commands-cheatsheet)
 
-| Challenge 1| Description |
+| Challenge 1| Command Line Basics (Use your Cheatsheet: [For Mac](http://bit.ly/gitgithubcheatsheetmac) [For Windows](http://bit.ly/gitgithubcheatsheetmac)|
 | ------ | ------ |
-| 1 | Open your terminal.
+| 1 | Open your terminal 
 | 2 | Make sure your current directory is on desktop.
 | 3 | git clone https://github.com/allthatjoy/git-101-women-who-code
 | 4 | Then jump into that repository.
