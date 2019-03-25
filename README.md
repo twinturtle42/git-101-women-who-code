@@ -5,7 +5,7 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 [Commands Cheatsheet](https://www.slideshare.net/JoySeng/git-101-workshop-commands-cheatsheet)
 
-| Challenge 1| Description |
+| Before Getting started| |
 | ------ | ------ |
 | 1 | Open your terminal.
 | 2 | Make sure your current directory is on desktop.
