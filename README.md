@@ -24,7 +24,7 @@ Solve the following challenges with your workshop buddy (pair programming).
 | 1 | Open your terminal.
 | 2 | Make sure your current directory is on desktop.
 | 3 | Go to https://github.com/allthatjoy/git-101-women-who-code
-| 4 | Fork that repositiory so that you are the Master of the Master Repository >> <img width="640" alt="Go4Tech" src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png">
+| 4 | **Fork** the repositiory (so that you are the Master of that repository)  >> <img width="640" alt="Go4Tech" src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width="250">
 | 4 | Then jump into that repository.
 
 | Challenge3| Description |
