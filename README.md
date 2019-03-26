@@ -39,7 +39,7 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 | Challenge4| Description |
 | ------ | ------ |
-| 1 | Go to back to the repository page on Github: bit.ly/git101workshop
+| 1 | Go to back to the repository page on Github: https://github.com/allthatjoy/git-101-women-who-code
 | 2 | This time, clone it directly
 | 3 | Come and give us your Github Username so that I can add you as a collaborator
 | 4 | Using a branch, add your name to the index.html file and push that branch to Github
