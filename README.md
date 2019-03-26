@@ -23,7 +23,7 @@ Solve the following challenges with your workshop buddy (pair programming).
 | 1 | Open your terminal.
 | 2 | Make sure your current directory is on desktop.
 | 3 | Go to https://github.com/allthatjoy/git-101-women-who-code
-| 4 | Fork that repositiory so that it is now stored on your Github Account >> <img width="640" alt="Go4Tech" src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png">
+| 4 | Fork that repositiory so that you are the Master of the Master Repository >> <img width="640" alt="Go4Tech" src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png">
 | 4 | Then jump into that repository.
 
 | Challenge3| Description |
