@@ -11,12 +11,13 @@ Solve the following challenges with your workshop buddy (pair programming).
 | Challenge1| Command Line Basics (Use your Cheatsheet)|
 | ------ | ------ |
 | 1 | Open your terminal 
-| 2 | Using your command line, create a new folder on your Desktop. 
-| 3 | Find the command to jump into that folder/directory and create a new file called index.html
-| 4 | Initialize git in that directory
-| 5 | Drag and drop the HMTL file in your text/code editor (If you don't have one, download [Sublime Text](https://www.sublimetext.com/)). Then write some stuff in that file, close it and finally, save the file. How do you review what changed in the HTML file using git? Make a new commit to explain what changed.
-| 6 | Create a new branch and jump onto that branch. How do you know how many branches there are in the project? How do you know which branch you are on?
-| 7 | Now, Git checkout to your master branch and then merge your branch to master branch
+| 2 | Create a new folder on your Desktop using your command line.
+| 3 | Find the command to change to that folder/directory
+| 4 | Create a new file called index.html
+| 5 | Initialize git for that directory
+| 6 | Find the command to open the file in your text/code editor. Then write some stuff in that file, close it and save the file. How do you review what changed in the HTML file using git? Make a new commit to explain what changed. (If you need to download a text Editor >> [Sublime Text](https://www.sublimetext.com/)). 
+| 7 | Create a new branch and jump onto that branch. How do you know how many branches there are in the project? How do you know which branch you are on?
+| 8 | Now, Git checkout to your master branch and then merge your branch to master branch
 
 | Challenge2| Description |
 | ------ | ------ |
