@@ -3,16 +3,20 @@
 ### Challenges 💪
 Solve the following challenges with your workshop buddy (pair programming).
 
-**Cheatsheet** for [Mac & Linux Users](http://bit.ly/gitgithubcheatsheetmac).&nbsp **Cheatsheet** for [Windows Users](http://bit.ly/gitgithubcheatsheetmac)
+**Cheatsheet** for [Mac & Linux Users](http://bit.ly/gitgithubcheatsheetmac).<br/> **Cheatsheet** for [Windows Users](http://bit.ly/gitgithubcheatsheetmac)
 
+<br/>
 <br/>
 
 | Challenge 1| Command Line Basics (Use your Cheatsheet)|
 | ------ | ------ |
 | 1 | Open your terminal 
-| 2 | Make sure your current directory is on desktop.
-| 3 | git clone https://github.com/allthatjoy/git-101-women-who-code
-| 4 | Then jump into that repository.
+| 2 | Using your command line, create a new folder on your Desktop. 
+| 3 | Find the command to jump into that folder/directory and create a new file called index.html
+| 4 | Initialize git in that directory
+| 5 | Drag and drop the HMTL file in your text/code editor (If you don't have one, download[Sublime Text](https://www.sublimetext.com/)). Then write some stuff in that file, close it and finally, save the file. How do you review what changed in the HTML file using git? Make a new commit to explain what changed.
+| 6 | Create a new branch and jump onto that branch. How do you know how many branches there are in the project? How do you know which branch you are on?
+| 7 | Now, Git checkout to your master branch and then merge your branch to master branch
 
 | Challenge 1| Description |
 | ------ | ------ |
