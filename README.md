@@ -25,16 +25,17 @@ Solve the following challenges with your workshop buddy (pair programming).
 | 2 | Make sure your current directory is on desktop.
 | 3 | Go to https://github.com/allthatjoy/git-101-women-who-code
 | 4 | **Fork** the repositiory (so that you are the Master of that repository)  >> <img width="640" alt="Go4Tech" src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width="250">
-| 4 | Then jump into that repository.
+| 4 | Clone your new repository onto your Desktop
 
 | Challenge3| Description |
 | ------ | ------ |
-| 1 | Create a new branch.
+| 1 | Create a new branch and change to that branch. 
 | 2 | Update the HTML file with your name and save it.
 | 3 | Using git commands git add the updated HTML file.
 | 4 | Then, git commit the changes on that branch with a message.
-| 5 | Run `git remote -v` so that you see what remote repositories is linked to your project?*
+| 5 | Run `git remote -v` so that you see what remote repositories is linked to your project?
 | 6 | Finally, git push your branch to GitHub. (Make sure to push the branch using `git push origin branch-name`) 
+| 7 | Create a pull request and merge your branch on Github
 
 | Challenge4| Description |
 | ------ | ------ |
