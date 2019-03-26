@@ -13,11 +13,12 @@ Solve the following challenges with your workshop buddy (pair programming).
 | 1 | Open your terminal 
 | 2 | Create a new folder on your Desktop using your command line.
 | 3 | Find the command to change to that folder/directory
-| 4 | Create a new file called index.html
+| 4 | Inside you new directory, create a new file called index.html
 | 5 | Initialize git for that directory
-| 6 | Find the command to open the file in your text/code editor. Then write some stuff in that file, close it and save the file. How do you review what changed in the HTML file using git? Make a new commit to explain what changed. (If you need to download a text Editor >> [Sublime Text](https://www.sublimetext.com/)). 
-| 7 | Create a new branch and jump onto that branch. How do you know how many branches there are in the project? How do you know which branch you are on?
-| 8 | Now, Git checkout to your master branch and then merge your branch to master branch
+| 6 | On your Desktop, drag that file in your text/code editor. Then write some stuff in that file, close it and save the file (If you need to download a text Editor >> [Sublime Text](https://www.sublimetext.com/)).
+| 7 | Which Git command do you use to review what changed in the HTML? Make a new commit to explain what changed. 
+| 8 | Create a new branch and jump onto that branch. How do you know how many branches there are in the project? How do you know which branch you are on?
+| 9 | Now, `git checkout` to your master branch and then merge your branch to the master branch
 
 | Challenge2| Description |
 | ------ | ------ |
@@ -25,22 +26,21 @@ Solve the following challenges with your workshop buddy (pair programming).
 | 2 | Make sure your current directory is on desktop.
 | 3 | Go to https://github.com/allthatjoy/git-101-women-who-code
 | 4 | **Fork** the repositiory (so that you are the Master of that repository)  >> <img width="640" alt="Go4Tech" src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width="250">
-| 4 | Clone your new repository onto your Desktop
+| 4 | `git clone` your new repository onto your Desktop
 
 | Challenge3| Description |
 | ------ | ------ |
 | 1 | Create a new branch and change to that branch. 
 | 2 | Update the HTML file with your name and save it.
-| 3 | Using git commands git add the updated HTML file.
-| 4 | Then, git commit the changes on that branch with a message.
-| 5 | Run `git remote -v` so that you see what remote repositories is linked to your project?
+| 3 | To save the new version, first `git add` the updated HTML file. Then the changes on that branch with a message: `git commit -m "a message"` 
+| 5 | Run `git remote -v` so that you see what remote repository is linked to your project?
 | 6 | Finally, git push your branch to GitHub. (Make sure to push the branch using `git push origin branch-name`) 
 | 7 | Create a pull request and merge your branch on Github
 
 | Challenge4| Description |
 | ------ | ------ |
 | 1 | Go to back to the repository page on Github: https://github.com/allthatjoy/git-101-women-who-code
-| 2 | This time, clone it directly
+| 2 | This time, clone it directly to your Desktop
 | 3 | Come and give us your Github Username so that I can add you as a collaborator
 | 4 | Using a branch, add your name to the index.html file and push that branch to Github
 | 5 | Open a Pull Request for us to review.
