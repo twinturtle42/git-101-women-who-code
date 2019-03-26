@@ -54,6 +54,8 @@ Solve the following challenges with your workshop buddy (pair programming).
 |  |  |
 | ------ | ------ |
 | 1 | In your terminal, run the command: `git version`. If Git is not installed, you can find the install file [here](https://git-scm.com/downloads)
+| 2 | Set your username and email on git. To set username, run `git config --global user.name “your name”`. To run your email : `git config --global user.email “your email”`
+$ git init
 | 2 | To make your terminal more user-friendly, **install oh-my-zsh**
 |   | **For Mac & Linux Users**: The installations instructions are [here](https://github.com/robbyrussell/oh-my-zsh). You can also just run this command in your terminal: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 |   |**b) For Windows 10 Users**: You can find installations instructions [here](https://www.maketecheasier.com/install-zsh-and-oh-my-zsh-windows10/), but the process is much much longer, so it is recommended that you do this at home. 
