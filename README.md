@@ -39,12 +39,11 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 | Challenge4| Description |
 | ------ | ------ |
-| 1 | Go to back to the repository page on Github: https://github.com/allthatjoy/git-101-women-who-code
-| 2 | This time, clone it directly to your Desktop
-| 3 | Come and give us your Github Username so that I can add you as a collaborator
-| 4 | Using a branch, add your name to the index.html file and push that branch to Github
-| 5 | Open a Pull Request for us to review.
-| 6 | If your Pull Request got accepted, your changes are added to the codebase and available [here](https://allthatjoy.github.io/git-101-women-who-code/)
+| 1 | Go to back to the repository page on and clone: git@github.com:twinturtle42/git-github-workshop.git
+| 2 | Come and give us your Github Username so that I can add you as a collaborator
+| 3 | Using a branch, add your name to the index.html file and push that branch to Github
+| 4 | Open a Pull Request for us to review.
+| 5 | If your Pull Request got accepted, your changes are added to the codebase and available [here](https://allthatjoy.github.io/git-101-women-who-code/)
 
 <br/>
 <br/>
