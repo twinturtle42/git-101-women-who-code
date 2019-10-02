@@ -24,7 +24,7 @@ Solve the following challenges with your workshop buddy (pair programming).
 | ------ | ------ |
 | 1 | Open your terminal.
 | 2 | Make sure your current directory is on desktop.
-| 3 | Go to https://github.com/allthatjoy/git-101-women-who-code
+| 3 | Go to https://github.com/twinturtle42/git-github-workshop
 | 4 | **Fork** the repositiory (so that you are the Master of that repository)  >> <img width="640" alt="Go4Tech" src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width="250">
 | 5 | `git clone` your new repository onto your Desktop
 
@@ -39,7 +39,7 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 | Challenge4| Description |
 | ------ | ------ |
-| 1 | Go to back to the repository page on and clone: git@github.com:twinturtle42/git-github-workshop.git
+| 1 | Go to back to the repository page on and clone: https://github.com/twinturtle42/git-github-workshop
 | 2 | Come and give us your Github Username so that I can add you as a collaborator
 | 3 | Using a branch, add your name to the index.html file and push that branch to Github
 | 4 | Open a Pull Request for us to review.
